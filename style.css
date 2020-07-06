@@ -14,10 +14,35 @@
     color: #ff136f;
 }
 .button{
-    background-image: linear-gradient(to bottom,#ff589b);
+    background-image: linear-gradient(to bottom,#ff589b );
     border:none;
     border-radius: 7px;
     padding: 9px 25px;
     cursor: pointer;
-
+color: tomato;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 20px;
+    border-radius: 15px;q
+}
+.cat1{
+    background-color: chocolate;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color: royalblue;
+}
+.catogories h1{
+    color: white;
+}
+.catogories img{
+    width: 100px;
+}
+#subscrib{
+    height: 200px;
+}
+footer{
+    text-align: center;
 }
